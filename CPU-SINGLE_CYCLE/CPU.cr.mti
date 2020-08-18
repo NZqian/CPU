@@ -1,0 +1,91 @@
+D:/CPU/gpr.v {1 {vlog -work CPU -vopt D:/CPU/gpr.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} D:/CPU/ctrl.v {1 {vlog -work work -vopt D:/CPU/ctrl.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} D:/CPU/s_cycle_cpu_tb.v {1 {vlog -work CPU -vopt D:/CPU/s_cycle_cpu_tb.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module s_cycle_cpu_tb
+
+Top level modules:
+	s_cycle_cpu_tb
+
+} {} {}} D:/CPU/im.v {1 {vlog -work CPU -vopt D:/CPU/im.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} D:/CPU/instruction_def.v {1 {vlog -work work -vopt D:/CPU/instruction_def.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+
+} {} {}} D:/CPU/npc.v {1 {vlog -work work -vopt D:/CPU/npc.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} D:/CPU/s_cycle_cpu.v {1 {vlog -work CPU -vopt D:/CPU/s_cycle_cpu.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module s_cycle_cpu
+
+Top level modules:
+	s_cycle_cpu
+
+} {} {}} D:/CPU/dm.v {1 {vlog -work CPU -vopt D:/CPU/dm.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} D:/CPU/ext.v {1 {vlog -work work -vopt D:/CPU/ext.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}} D:/CPU/alu.v {1 {vlog -work CPU -vopt D:/CPU/alu.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/CPU/pc.v {1 {vlog -work CPU -vopt D:/CPU/pc.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} D:/CPU/mux2.v {1 {vlog -work work -vopt D:/CPU/mux2.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/CPU/mux3.v {1 {vlog -work work -vopt D:/CPU/mux3.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} D:/CPU/aluop_def.v {1 {vlog -work work -vopt D:/CPU/aluop_def.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+
+} {} {}}
